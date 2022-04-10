@@ -1,6 +1,8 @@
 elasticdump
 ==================
 
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/bpavot/elasticsearch-dump#scalingo)
+
 Tools for moving and saving indices.
 
 ![picture](https://raw.github.com/elasticsearch-dump/elasticsearch-dump/master/elasticdump.jpg)
